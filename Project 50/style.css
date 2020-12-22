@@ -1,0 +1,116 @@
+h1{
+    background-color: #ffe4c4;
+    color:#483d8b ;
+}
+body{
+    background-color:#e6e6fa;
+}
+.one{
+
+color:#483d8b ;
+background-color:#ffe4c4 ; 
+
+}
+
+.two{
+    display:flex;
+    justify-content: wrap;
+    margin-bottom: 30px;
+    background-color: #ffe4c4  ;
+}
+
+.one{
+    display:flex;
+    justify-content:center;
+}
+
+.one a:visited {
+    color:#483d8b;
+    text-decoration: none;
+}
+
+.one a:link a{
+  color:black;
+  text-decoration: none;
+}
+
+.five{
+    display:flex;
+    justify-content: wrap;
+}
+
+.three{
+ border:solid  ;
+ margin:10px;
+ background-color:#e6e6fa;
+ display:flex;
+ justify-content:flex-start;
+ opacity:70%
+}
+
+.six{
+    border:solid;
+   padding-right:10px;
+   background-color: #ffe4c4 ;
+}
+
+.seven{
+    border:solid;
+    background-color:#ffe4c4 ;
+}
+.eight{
+    border:solid;
+    padding-right:10px ;
+    background-color:#ffe4c4;
+}
+.nine{
+    border:solid;
+    background-color: #ffe4c4;
+}
+
+.tone{
+    border:solid;
+    padding-right: 693px;
+    margin:10px;
+    background-color:#e6e6fa;
+    display:flex;
+    justify-content:flex-end;
+ opacity:70%
+}
+
+.ttwo{
+    border:solid;
+    padding-right: 520px;
+    margin:10px;
+    background-color:#e6e6fa;
+opacity:70%
+}
+
+.ttwo img{
+    display:flex;
+    justify-content:center;   
+}
+
+.ten{
+    border:solid;
+    padding-right:10px;
+    background-color:#ffe4c4;
+}
+.eleven{
+    border:solid;
+    background-color: #ffe4c4 ;
+}
+
+.three:hover{
+    transform:scale(1.1);
+    opacity:100%
+}
+
+.tone:hover{
+    transform:scale(1.1);
+    opacity:100%
+}
+.ttwo:hover{
+    transform:scale(1.1);
+    opacity:100%
+}
